@@ -3,7 +3,7 @@ class InvalidAgeException(Exception):
 #     # "Raised when the input value is less than 18"
     pass
 
-# you need to guess this number
+
 number = 18
 
 try:
